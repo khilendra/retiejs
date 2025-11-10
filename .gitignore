@@ -1,0 +1,12 @@
+/bin/
+.idea
+*.iml
+target
+.settings
+.classpath
+.project
+package-lock.json
+node
+node_modules
+node_modules-old
+dist
